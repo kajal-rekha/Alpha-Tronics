@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/index.61d3354a.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <script src="/index.816e7b21.js" defer=""></script>
+    <script src="/index.975ef6c8.js" defer=""></script>
+    <title>Document</title>
+  </head>
+  <body class="bg-gray-100 text-gray-600 text-lg font-normal overflow-x-hidden">
+    <header>
+      <!-- navbar -->
+      <nav class="flex container mx-auto py-5 justify-between items-center border-b">
+        <h2 class="text-3xl lowercase italic font-bold">
+          Alpha <span class="text-violet-500">Tronics</span>
+        </h2>
+        <ul class="flex gap-5">
+          <li>
+            <a href="#" class="hover:text-violet-500 duration-300">Home</a>
+          </li>
+          <li>
+            <a href="#" class="hover:text-violet-500 duration-300">Categories</a>
+          </li>
+          <li>
+            <a href="#" class="hover:text-violet-500 duration-300">Shop</a>
+          </li>
+          <li>
+            <a href="#" class="hover:text-violet-500 duration-300">About</a>
+          </li>
+          <li>
+            <a href="#" class="hover:text-violet-500 duration-300">Support</a>
+          </li>
+        </ul>
+        <div class="flex gap-4">
+          <a href="#" class="bg-violet-500 text-white p-2 px-5 rounded-full font-semibold">Subscribe</a>
+          <button class="relative cart-open-btn">
+            <i class="fa-solid fa-cart-shopping hover:text-violet-500"></i>
+            <span class="absolute bottom-6 left-3 text-sm font-bold w-6 h-6 rounded-full bg-rose-500 text-rose-50 flex justify-center items-center item-count"></span>
+          </button>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <!-- products -->
+
+      <section id="products" class="container mx-auto py-10">
+        <h2 class="text-center text-4xl font-bold uppercase mb-10 tracking-widest">
+          New Arrivals
+        </h2>
+        <div class="products-wrapper flex flex-wrap gap-10 justify-center items-center">
+          <!-- single products stay here -->
+        </div>
+      </section>
+
+      <!-- single product modal -->
+
+      <div class="cart-modal w-3/5 lg:w-2/5 h-screen bg-white/75 fixed top-0 right-0 backdrop-blur-xl shadow-2xl border-l-2 border-white select-none p-5 py-10 hidden">
+        <div class="flex flex-col gap-10">
+          <div class="flex justify-between items-center">
+            <h3 class="cart-headline text-2xl font-bold uppercase tracking-wider">
+              Your cart
+            </h3>
+            <span class="cart-close cursor-pointer">❌</span>
+          </div>
+        </div>
+
+        <div class="added-products flex flex-col gap-5"></div>
+      </div>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "BRAVIA KLV-24P413D",
+      "image": "https://static.digit.in/default/5255c630941326b55783d926913a04cc58d70b06.jpeg",
+      "price": 499,
+      "review": 1130,
+      "category": "TV"
+    },
+    {
+      "id": 2,
+      "title": "W10 Cool Yin w",
+      "image": "https://hocotech.com/wp-content/uploads/2018/07/w10-cool-wireless-headphone-overview.jpg",
+      "price": 250,
+      "review": 458,
+      "category": "Headphone"
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi Haylou Solar LS05-1",
+      "image": "https://www.startech.com.bd/image/cache/catalog/watch/xiaomi/haylou-solar-ls05-1/haylou-solar-ls05-1-001-500x500.jpg",
+      "price": 300,
+      "review": 550,
+      "category": "Smart Watch"
+    },
+    {
+      "id": 4,
+      "title": "Full HD Ultra-Slim Backlit LED Micro-Edge VGA",
+      "image": "http://cdn.shopify.com/s/files/1/0272/6084/6180/products/hp-27inch-27f-11_1200x1200.jpg?v=1606175081",
+      "price": 1000,
+      "review": 655,
+      "category": "Monitor"
+    },
+    {
+      "id": 5,
+      "title": "Dron DJI Mini 3 Pro + DJI RC",
+      "image": "https://www.gohero.pl/userdata/public/gfx/8826/DJI_Mini_3_Pro12_GoHERO.jpg",
+      "price": 800,
+      "review": 725,
+      "category": "Drons"
+    },
+    {
+      "id": 6,
+      "title": "Apple iPhone",
+      "image": "https://www.mobiledokan.com/wp-content/uploads/2021/10/Apple-iPhone-13-Pro-Max-image.jpg",
+      "price": 1500,
+      "review": 1200,
+      "category": "iphone"
+    },
+    {
+      "id": 7,
+      "title": "3 Cara Mudah Mengatasi",
+      "image": "https://enctees.com/wp-content/uploads/2022/08/trafik-24-jam.jpg",
+      "price": 800,
+      "review": 1119,
+      "category": "Laptop"
+    },
+    {
+      "id": 8,
+      "title": "PRO-JECT Speaker Box",
+      "image": "https://www.omega.be/images/ashx/pro-ject-speaker-box-5-black-bin1.jpeg?s_id=PROJ7OIQDD&imgfield=s_imagebin1&imgwidth=1200&imgheight=1200",
+      "price": 300,
+      "review": 465,
+      "category": "Speaker Box"
+    },
+    {
+      "id": 9,
+      "title": "Ugreen USB External Sound Card",
+      "image": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/u/s/usb-external-soundaudio-card-for-computer-with-volume-control-mute-button.jpeg",
+      "price": 100,
+      "review": 325,
+      "category": "USB"
+    },
+    {
+      "id": 10,
+      "title": "UGREEN Mini DP to VGA Converter",
+      "image": "https://www.bdshop.com/pub/media/catalog/product/cache/a762498fd6e92192d841c2d6c87195e8/1/4/ugreen-mini-dp-to-vga-converter-mini-displayport-male-thunderbolt-to-vga-female.jpg",
+      "price": 1500,
+      "review": 1200,
+      "category": "VGA Converter"
+    },
+    {
+      "id": 11,
+      "title": "Inkjet Printers",
+      "image": "https://asia.canon/media/image/2020/08/26/e0974bdc54d445039d4e3db2301b0c73_E34xx_AS_FR_cl2_blk_en-362x320.png",
+      "price": 1200,
+      "review": 782,
+      "category": "Printer"
+    },
+    {
+      "id": 12,
+      "title": "PS5 Console w/ Horizon West Game",
+      "image": "https://qvc.scene7.com/is/image/QVC/e/98/e310798.001",
+      "price": 599,
+      "review": 856,
+      "category": "Console"
+    }
+  ]
+}
